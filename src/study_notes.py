@@ -4,7 +4,8 @@ def list_topics():
         "staging area",
         "local repository",
         "remote repository",
-        "My repository",
+        "git init",
+        "git add",
     ]
 
 
