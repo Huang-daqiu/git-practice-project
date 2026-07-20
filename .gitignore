@@ -2,4 +2,4 @@ debug.log
 cache/
 __pycache__/
 *.pyc
-
+*.tmp
