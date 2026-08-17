@@ -8,6 +8,8 @@ def list_topics():
         "git add",
     ]
 
+def show_progress():
+    return "Git branch workflow completed"
 
 def print_topics():
     for index, topic in enumerate(list_topics(), start=1):
